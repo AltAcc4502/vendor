@@ -1,0 +1,6 @@
+fortifyapi
+requests
+flask
+streamlit
+PyAutoGUI
+python-dotenv
